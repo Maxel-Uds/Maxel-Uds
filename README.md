@@ -22,6 +22,7 @@ I currently studying at Universidade Positivo [UP](https://www.up.edu.br/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=.NET)
 ![C#](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=c)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## ⚡ GitHub Stats
 
