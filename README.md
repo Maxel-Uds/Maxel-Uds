@@ -1,6 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Maxel-Uds" alt="Maxel-Uds" /></p>
-
-
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Maxel</h1>
 <p align = "justify">Programming student, C# lover, currently studying web developer and JavaScript, i'm very curious and i like learn new things. Some curiosities about me: i am in love with astrophysics and astronomy. Open to work! </p>
 
