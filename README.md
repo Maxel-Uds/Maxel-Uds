@@ -20,6 +20,7 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=.NET)
 ![C#](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## ⚡ GitHub Stats
