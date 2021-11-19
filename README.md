@@ -25,5 +25,5 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Maxel-Uds&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Maxel-Uds&show_icons=true&count_private=true&show_icons=true&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxel-Uds&hide=TeX&layout=compact)
