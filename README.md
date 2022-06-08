@@ -1,5 +1,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Maxel</h1>
-<p align = "justify">Programming student, Java 11+ lover, currently improving my Java skills. But, i like study too many topics related to front-end, like JavaScript, HTML, CSS and others topics. I'm very curious and i like learn new things. Some curiosities about me: i'am in love with astrophysics and astronomy and anything related to the mysteries of the universe.</p>
+<p align = "justify">
+  Programming student, Java 11+ and Linux OS lover, currently improving my Java skills. But, i like study too many topics related to front-end, like JavaScript, HTML,   CSS and others topics. I'm very curious and i like learn new things. Some curiosities about me: i'am in love with astrophysics and astronomy and          anything related to the mysteries of the universe.
+</p>
 
 I currently go to college at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 Currently working at [Invillia](https://invillia.com/global-growth-framework/)
@@ -46,3 +48,5 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxel-Uds&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+![Snake animation](https://github.com/Maxel-Uds/Maxel-Uds/blob/output/github-contribution-grid-snake.svg)
