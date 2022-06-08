@@ -1,7 +1,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Maxel</h1>
-<p align = "justify">Programming student, C# lover, currently studying web developer, JavaScript, Java and REST APIs. I'm very curious and i like learn new things. Some curiosities about me: i am in love with astrophysics and astronomy.</p>
+<p align = "justify">Programming student, Java 11+ lover, currently improving my Java skills. But, i like study too many topics related to front-end, like JavaScript, HTML, CSS and others topics. I'm very curious and i like learn new things. Some curiosities about me: i'am in love with astrophysics and astronomy and anything related to the mysteries of the universe.</p>
 
-I currently studying at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
+I currently go to college at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 Currently working at [Invillia](https://invillia.com/global-growth-framework/)
 
 
@@ -22,10 +22,10 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
 ![C#](https://img.shields.io/badge/-CSharp-white?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Linux](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=MySql)
-![Linux](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
+![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=MySql)
+![Spring](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Maxel-Uds&show_icons=true&count_private=true&show_icons=true&include_all_commits=false)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Maxel-Uds&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxel-Uds&hide=TeX&layout=compact)
