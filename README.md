@@ -6,10 +6,12 @@
 I currently go to college at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 Currently working at [Invillia](https://invillia.com/global-growth-framework/)
 
+## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/> Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-MaxelUdson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxel-udson-b7b65b203/)](https://www.linkedin.com/in/maxel-udson-b7b65b203/)
-[![Instagram Badge](https://img.shields.io/badge/-maxudsom-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maxudsom/)](https://www.instagram.com/maxudsom/)
-[![Gmail Badge](https://img.shields.io/badge/-maxellopes32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxellopes32@gmail.com)](maxellopes32@gmail.com)
+<p align="center">
+  <a href="https://www.instagram.com/maxudsom/" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/maxel-udson-b7b65b203/" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
+</p>
 
 ## 🚀💻 Technologies & Tools
 
@@ -48,5 +50,3 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxel-Uds&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-![Snake animation](https://github.com/Maxel-Uds/Maxel-Uds/blob/output/github-contribution-grid-snake.svg)
