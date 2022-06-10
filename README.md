@@ -51,3 +51,9 @@ Currently working at [Invillia](https://invillia.com/global-growth-framework/)
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxel-Uds&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+## <img src="https://img.icons8.com/stickers/30/undefined/commit-git.png"/> Contribuitions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maxel-Uds/Maxel-Uds/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/Maxel-Uds/Maxel-Uds/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+</p>
